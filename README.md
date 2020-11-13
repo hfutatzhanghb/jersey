@@ -28,6 +28,7 @@ Goals of Jersey project can be summarized in the following points:
     and finally
 *   Make it easy to build RESTful Web services utilising Java and the
     Java Virtual Machine.
+
 ---
 
 *   The latest stable release of Jersey is [{{ site.latestVersion }}][dwnld].
